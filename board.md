@@ -3,7 +3,7 @@ layout: default
 title: Executive Board
 permalink: /board/
 ---
-#-[Tanner Barlow - President](url/Tanner)
-#-[Elijah Grubb - Vice President](url/Elijah)
-#-[Rusty Griggs - Secretary](url/Rusty)
-#-[Josh Callahan - Recruitment](url/Josh)
+* #[Tanner Barlow - President](../Tanner)
+* #[Elijah Grubb - Vice President](../Elijah)
+* #[Rusty Griggs - Secretary](../Rusty)
+* #[Josh Callahan - Recruitment](../Josh)
