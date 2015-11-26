@@ -4,6 +4,6 @@ title: Tanner Barlow - President
 permalink: /Tanner/
 ---
 
-![Image of Tanner](https://avatars2.githubusercontent.com/u/10962815?v=3&s=460)
+![Image of Tanner](../resources/images/TannerPic.jpg)
 
 I am Tanner Barlow.
