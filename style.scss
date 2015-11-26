@@ -17,6 +17,9 @@ html {
   font-size: 100%;
 }
 
+//Color links Red
+a:hover {color: #FF0000; text-decoration: none; }
+
 body {
 	background: $white;
   font: 18px/1.4 $helvetica;
@@ -69,11 +72,11 @@ p {
 }
 
 a {
-  color: $grayscale($black);;
+  color: $blue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $red;
+    color: $blue;
   }
 }
 
