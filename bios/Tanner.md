@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Tanner Barlow - President
 permalink: /Tanner/
 ---
