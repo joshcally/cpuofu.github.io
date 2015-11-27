@@ -15,13 +15,11 @@ CPU is a group of students committed to creating meaningful, useful software too
 - Power to create and build on your own ideas and the ideas of others
 
 ##Where we've worked
-#So far, our members have worked or have received offers to work at the following companies:
+###So far, our members have worked or have received offers to work at the following companies:
 - Goldman Sachs
 - FamilySearch
 - Qualtrics
 - Microsoft
 - Spillman Technologies
 
-### Contact us
-
-[Email](mailto:cpuofu@gmail.com)
+##[Contact Us](mailto:cpuofu@gmail.com)
