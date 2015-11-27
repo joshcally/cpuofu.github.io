@@ -236,7 +236,7 @@ nav {
     }
   }
 
-  input#submitjoin, #resetjoin{
+  input#submitjoin, input#resetjoin{
     width:100px; /*same as the height*/
     height:100px; /*same as the width*/
     background-color:#ff0000;
@@ -253,7 +253,7 @@ nav {
     box-shadow: 2px 2px 15px rgba(0,0,0, .75);
   }
 /***NOW STYLE THE BUTTON'S HOVER STATE***/
-  input#submitjoin, #resetjoin:hover{
+  input#submitjoin, input#resetjoin:hover{
     background:#c20b0b;
     border:1px solid #c20b0b;
     /*reduce the size of the shadow to give a pushed effect*/
