@@ -9,4 +9,4 @@ Group of students committed to creating meaningful, useful software tools in a t
 
 ### Contact us
 
-[Email](mailto:tanner.barlow@utah.edu)
+[Email](mailto:cpuofu@gmail.com)
