@@ -15,4 +15,6 @@ C#, Java, Node.js, HTML, CSS, JavaScript
 ##Tools/Frameworks
 VisualStudio, Eclipse, REST, Git/GitHub
 
-##[Resume](../resources/resumes/tannerbarlow.resume.pdf) [Personal Website](http://tannerbarlow.com/) [GitHub](https://github.com/tbarlow12)
+##[Resume](../resources/resumes/tannerbarlow.resume.pdf)
+##[Personal Website](http://tannerbarlow.com/)
+##[GitHub](https://github.com/tbarlow12)
