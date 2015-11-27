@@ -14,7 +14,7 @@ CPU is a group of students committed to creating meaningful, useful software too
 - Practice working on an Agile-style team
 - Power to create and build on your own ideas and the ideas of others
 
-##Where we've worked
+##Where We've Worked
 ###So far, our members have worked or have received offers to work at the following companies:
 - Goldman Sachs
 - FamilySearch
