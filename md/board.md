@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Executive Board
 permalink: /board/
 ---
