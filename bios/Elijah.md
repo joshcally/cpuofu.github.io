@@ -17,4 +17,4 @@ VisualStudio, Eclipse, Git/GitHub, Django, MeteorJS
 
 ##[Resume](../resources/resumes/elijahgrubb.resume.pdf)
 ##[Personal Website](http://www.elijahgrubb.com/)
-##[GitHub](https://github.com/judgegrubb)
+##[GitHub](https://www.github.com/judgegrubb)
