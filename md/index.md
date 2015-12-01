@@ -22,5 +22,3 @@ CPU is a group of students committed to creating meaningful, useful software too
 - Qualtrics
 - Microsoft
 - Spillman Technologies
-
-##[Contact Us](mailto:cpuofu@gmail.com)
