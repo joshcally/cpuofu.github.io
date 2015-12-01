@@ -16,8 +16,9 @@ CPU is a group of students committed to creating meaningful, useful software too
 
 ##Where We've Worked
 ###So far, our members have worked or have received offers to work at the following companies:
-- Goldman Sachs
+- eBay
 - FamilySearch
+- Goldman Sachs
 - Qualtrics
 - Microsoft
 - Spillman Technologies
