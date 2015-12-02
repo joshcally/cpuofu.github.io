@@ -3,7 +3,6 @@ layout: page
 title: Matthew Tolman
 permalink: /Matthew/
 ---
-##Bio
 I have been programming computers since 4th grade. In 8th grade I started working with robots, and I was part of FIRST FRC Team 2484 during high school; I am now a programming mentor for that team.
 
 Some of my hobbies are making video games, working with 3D printers, and learning new languages.
