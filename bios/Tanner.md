@@ -4,16 +4,26 @@ title: Tanner Barlow - President
 permalink: /Tanner/
 ---
 
-![Image of Tanner](../resources/images/TannerPic.jpg)
+![Tanner Barlow](../resources/images/TannerPic.jpg)
 
-Tanner is a junior in the Computer Science program at the U. He spent the summer of 2015 as a Software Development intern with FamilySearch in Salt Lake City, where he developed tools for a team of data specialists to maintain a database of over 7 million points of data.
+Tanner spent the summer of 2015 as a Software Development intern with FamilySearch in Salt Lake City, where he developed tools for a team of data specialists to maintain a database of over 7 million points of data. He has recently accepted a Software Engineer Internship with Microsoft, which will begin in May of 2016.
 
-He has recently accepted a Software Engineer Internship with Microsoft, which will begin in May of 2016.
+He is most interested in data mining, machine learning and all other technologies involving the transformation of data into useful tools and information.
+
+Tanner is married to the most beautiful girl in the world, is an avid basketball player and served an LDS mission in Santiago, Chile.
+
+##Year In school
+Junior
 
 ##Languages
 C#, Java, Node.js, Python, HTML, CSS, JavaScript
+
 ##Tools/Frameworks
 VisualStudio, Eclipse, REST, Git/GitHub
+
+##Where He's Worked
+- FamilySearch
+- Microsoft (summer of 2016)
 
 ##[Resume](../resources/resumes/tannerbarlow.resume.pdf)
 ##[Personal Website](http://tannerbarlow.com/)
