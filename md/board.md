@@ -7,5 +7,4 @@ permalink: /board/
 # - [Elijah Grubb - Vice President](../Elijah)
 # - [Rusty Griggs - Secretary](../Rusty)
 # - [Josh Callahan - Recruitment](../Josh)
-
 # - [Maddi Tapp - Advisor](../Maddi)
