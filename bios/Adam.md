@@ -11,5 +11,3 @@ Senior
 
 ##Languages
 Java, C#, C
-
-##[Resume](../resources/resumes/name.resume.pdf)
