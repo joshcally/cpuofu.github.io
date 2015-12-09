@@ -16,4 +16,4 @@ Java, C#, HTML, JavaScript, CSS, PHP, MySQL, C++, Perl, Ruby, Objective-C, MATLA
 ##Places He's Worked
 - eBay
 
-##[LinkedIn](www.linkedin.com/in/ipeterpan)
+##[LinkedIn](https://www.linkedin.com/in/ipeterpan)
