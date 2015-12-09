@@ -5,6 +5,7 @@ permalink: /members/
 ---
 ### - [Adam Sperry](../Adam)
 ### - [Alan Mouritsen](../Alan)
+### - [Cory Simon](../Cory)
 ### - [Elijah Grubb](../Elijah)
 ### - [Josh Callahan](../Josh)
 ### - [Matthew Tolman](../Matthew)
