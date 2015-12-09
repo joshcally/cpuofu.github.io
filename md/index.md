@@ -6,7 +6,7 @@ permalink: /
 
 *“People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.” - Donald Knuth*
 
-CPU is a group of students committed to creating meaningful, useful software tools in a team environment, collaborate with other aspiring software engineers and develop strong networking skills and relationships to further their career in software development
+CPU of U is a group of students committed to creating meaningful, useful software tools in a team environment, collaborate with other aspiring software engineers and develop strong networking skills and relationships to further their career in software development
 
 ##Benefits of Joining
 - Hands-on exposure to different technologies
