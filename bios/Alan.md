@@ -8,6 +8,7 @@ CS student at the U, transferred from SLCC after getting my AS Degree.
 
 ##Year In School
 Junior
+
 ##Languages
 C#, Objective-C, Java, Python
 

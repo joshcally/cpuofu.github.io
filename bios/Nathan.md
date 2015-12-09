@@ -8,9 +8,9 @@ My name is Nate Wilkinson and I'm a Sophomore at the University of Utah studying
 
 ##Year In School
 Sophomore
+
 ##Languages
 C#, Java, PHP, SQL, JavaScript, CSS, HTML
-##Tools/Frameworks
 
 ##Where He's Worked
 - ExeVision

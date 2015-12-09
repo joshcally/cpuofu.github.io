@@ -5,9 +5,9 @@ permalink: /Josh/
 ---
 ##Year In School
 Junior
+
 ##Languages
 Java, C#, SQL
-##Tools/Frameworks
 
 ##Where He's Worked
 - Spillman Technologies, Inc.
