@@ -23,7 +23,7 @@ VisualStudio, Eclipse, REST, Git/GitHub
 
 ##Where He's Worked
 - FamilySearch
-- Microsoft (summer of 2016)
+- Microsoft (Summer of 2016)
 
 ##[Resume](../resources/resumes/tannerbarlow.resume.pdf)
 ##[Personal Website](http://tannerbarlow.com/)
