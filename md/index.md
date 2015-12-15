@@ -27,3 +27,9 @@ CPU of U is a group of students committed to creating meaningful, useful softwar
 - Qualtrics
 - FamilySearch
 - Spillman Technologies
+- University of Utah
+- AutoPal Software
+- Simnang LLC
+- SupportingYouth.com
+- LDS Church
+- ExeVision
