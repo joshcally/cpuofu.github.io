@@ -8,6 +8,9 @@ permalink: /Elijah/
 
 Elijah is a Computer Science student at the University of Utah. A junior in the program, he has been interning at Spillman Technologies in West Valley, Utah since March 2015. Elijah has always been fascinated by computers and is presently interested in the fields of artificial intelligence and [proper concurrent program design](https://vimeo.com/49718712).
 
+####Current Favorite Joke:
+“What do we want?” “Now!” “When do we want it?” “Concurrency!”
+
 He recently accepted an offer of internship from [Goldman Sachs](http://www.goldmansachs.com/what-we-do/engineering/index.html) for the summer of 2016.
 
 ##Languages
