@@ -9,7 +9,7 @@ permalink: /
 CPU of U is a group of students committed to creating meaningful, useful software tools in a team environment, collaborate with other aspiring software engineers and develop strong networking skills and relationships to further their career in software development
 
 ##Benefits of Joining
-- Hands-on exposure to different technologies
+- Hands-on exposure to different **technologies**
 - **Collaborate** with your peers
 - Build network of individuals that will **help you get jobs/internships**
 - Great to include on **resume** (projects we do and your membership)
@@ -33,3 +33,5 @@ CPU of U is a group of students committed to creating meaningful, useful softwar
 - SupportingYouth.com
 - LDS Church
 - ExeVision
+- Ancestry.com
+- Invesco
