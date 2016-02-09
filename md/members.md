@@ -5,9 +5,12 @@ permalink: /members/
 ---
 ### - [Adam Sperry](../Adam)
 ### - [Alan Mouritsen](../Alan)
+### - [Braden Klunker](../Braden)
 ### - [Cory Simon](../Cory)
+### - [Dung Hong](../Dung)
 ### - [Elijah Grubb](../Elijah)
 ### - [Hayden Matthews](../Hayden)
+### - [Jessika Jiménez](../Jessika)
 ### - [Josh Callahan](../Josh)
 ### - [Keeton Hodgson](../Keeton)
 ### - [Matthew Tolman](../Matthew)
