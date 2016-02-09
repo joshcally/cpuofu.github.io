@@ -10,7 +10,7 @@ Sophomore
 
 ##Tools/Frameworks
 VisualStudio, Eclipse, Git/GitHub, Drupal, MySQL
-##Where He's Worked
+##Where She's Worked
 Ancestry.com
 ##[LinkedIn](https://www.linkedin.com/in/nataliecottrill)
 ##[Twitter](https://twitter.com/nataliecottrill)
