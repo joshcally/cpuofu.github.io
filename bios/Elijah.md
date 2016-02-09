@@ -11,7 +11,7 @@ Elijah is a Computer Science student at the University of Utah. A junior in the 
 He recently accepted an offer of internship from [Goldman Sachs](http://www.goldmansachs.com/what-we-do/engineering/index.html) for the summer of 2016.
 
 ##Languages
-C#, Java, Go, Python, HTML, CSS, JavaScript, XML, XSLT
+C#, Java, C++, Go, Python, HTML, CSS, JavaScript, XML, XSLT
 ##Tools/Frameworks
 VisualStudio, Eclipse, Git/GitHub, Django, MeteorJS
 
