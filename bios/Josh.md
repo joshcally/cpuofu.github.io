@@ -9,10 +9,10 @@ Born and raised in Salt Lake City, I have a growing interest in the many softwar
 Junior
 
 ##Languages
-Java, C#, SQL
+Java, C#, C++, SQL, HTML/CSS, JavaScript, PHP
 
 ##Tools/Frameworks
-VisualStudio, Eclipse, Git/Github, Tortoise SVN, MySQL, PostgreSQL
+VisualStudio, Eclipse, Git/Github, SVN, MySQL, PostgreSQL
 
 ##Where He's Worked
 - Spillman Technologies, Inc.
